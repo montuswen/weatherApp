@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/back">
+        <file>image/backup.png</file>
+    </qresource>
+</RCC>
